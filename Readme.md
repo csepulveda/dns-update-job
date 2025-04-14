@@ -4,7 +4,7 @@ Very simple script to run as kubernetes job and update my public ip address into
 
 ## create the namespace and the secret
 ```
-kubectl create ns
+kubectl create ns dns
 ```
 
 ```

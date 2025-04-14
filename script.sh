@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 ##check variables exist
 if [ -z "$CLOUDFLARE_API_KEY" ]; then
